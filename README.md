@@ -2,4 +2,4 @@
 
 Nessa prática os desafios foram proposto por @JoaoLira. 
 
-O desafio era analiar o código e reparar os erros com o conhecimento adquirido durante suas aulas. ✅ 
+O desafio era analisar os códigos e reparar os erros com o conhecimento adquirido durante suas aulas. ✅ 
